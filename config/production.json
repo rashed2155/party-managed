@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://rashed:rashed2155@main.kygbe.azure.mongodb.net/party-manage?retryWrites=true&w=majority",
+  "jwtSecret": "myJWTsecret"
+}
